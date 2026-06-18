@@ -41,7 +41,7 @@ distinct fire behavior characteristics.
 ## Repository Structure
 
 ```
-montana-wildfire-pipeline/
+montana-wildfire/
 │
 ├── data/                        # Local data cache (gitignored)
 │   ├── raw/
@@ -243,7 +243,7 @@ Core dependencies:
 
 ## Author
 
-Built by [Your Name] as a portfolio project demonstrating geospatial data engineering,
+Built by Bily Brown as a portfolio project demonstrating geospatial data engineering,
 Earth Observation analysis, and applied machine learning for environmental applications.
 
 *Missoula, Montana*
