@@ -30,6 +30,9 @@ build/
 *.prj
 *.nc
 *.zarr/
+*.zip
+
+/data
 
 # OS
 .DS_Store
