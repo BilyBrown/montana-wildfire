@@ -1,0 +1,17 @@
+[project]
+name = "montana-wildfire"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "geopandas>=0.10.2",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "odc-stac>=0.2.4",
+    "pandas>=1.1.5",
+    "planetary-computer>=1.0.0",
+    "pystac-client>=0.5.1",
+    "rasterio>=1.2.10",
+    "rioxarray>=0.9.1",
+]

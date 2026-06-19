@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# UV / virtual environment
+.venv/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Data files (common in geospatial work)
+*.tif
+*.tiff
+*.geojson
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.nc
+*.zarr/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
