@@ -14,6 +14,7 @@ complementary problems:
 1. **Wildfire Risk Modeling** — Where is fire most likely to ignite and spread, *before* it starts?
 2. **Active Fire & Burn Perimeter Detection** — Once a fire starts, can we detect it and define its
    perimeter from satellite imagery in near real-time?
+   Burn severity markers: https://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/in-detail/normalized-burn-ratio
 
 The pipeline is built on cloud-native EO principles using Sentinel-2 multispectral imagery accessed
 via STAC, processed with Open Data Cube tooling, and analyzed using a combination of spectral indices
